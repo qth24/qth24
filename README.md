@@ -28,7 +28,7 @@ Passionate about **digital forensics** and **vulnerability research**.
 
 ---
 
-## 🔗 Contact
+## Contact
 **Email:** thinhdq.24@gmail.com  
 **GitHub:** [github.com/qth24](https://github.com/qth24)  
 **Book:** [gitbook/qth24](https://qth24.gitbook.com)
